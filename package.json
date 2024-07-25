@@ -1,0 +1,23 @@
+{
+    "name": "@ylfjuk/is-yl",
+    "version": "1.0.0",
+    "description": "Is YL",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/YLfjuk/is-yl.git"
+    },
+    "keywords": [
+        "yl",
+        "fjuk"
+    ],
+    "author": "YLfjuk",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/YLfjuk/is-yl/issues"
+    },
+    "homepage": "https://github.com/YLfjuk/is-yl#readme"
+}
